@@ -14,4 +14,3 @@ Dark Mode | الوضع الداكن: A sleek dark theme to match the anime vibe!
 Results Display | عرض النتائج: The app tracks your answers and displays the final score in a new window.
 
 No External Dependencies | بدون مكتبات خارجية: Entirely built using Python’s standard library, specifically tkinter.
-
